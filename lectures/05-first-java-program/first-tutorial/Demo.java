@@ -10,3 +10,5 @@ public class Demo {
 // System view by ctrl+click you see implementation it has a variable out in it which is of type PrintStream and println is a method of out by default it outputs on terminal if you want to change it to output on a .txt file suppose then you can do that as well
 // why the main file name class is public and main is public inside it because it's java entry point to start program you have to keep it public 
 
+// System.out   ->   represents standard output stream (in terminal)
+// System.in    ->   represents standard input stream (from keyboard)
