@@ -23,7 +23,7 @@ public class Main {
 //        Student kunal;
 //        kunal = new Student();
 
-        Student kunal = new Student(15, "Kunal Kushwaha", 85.4f);
+        Student kunal = new Student(15, "Kunal Kushwaha", 85.4f); // if you did not have any constructor in class so values are unitialized then if you print then for primitives like int 0 prints and null for string
         Student rahul = new Student(18, "Rahul Rana", 90.3f);
 
 //        kunal.rno = 13;
